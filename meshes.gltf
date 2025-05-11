@@ -1,0 +1,23 @@
+{
+  "asset": {
+    "generator": "COLLADA2GLTF",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [0]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "<img src=x onerror=alert('XSS')>",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": []
+    }
+  ]
+}
